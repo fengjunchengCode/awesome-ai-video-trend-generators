@@ -12,6 +12,9 @@ This list is maintained by the operator of two of the tools listed here: **zombi
 
 - [Zombie couple / zombie love story](#zombie-couple--zombie-love-story)
 - [Tiptoeing in my jordans / Rumpelstiltskin dance](#tiptoeing-in-my-jordans--rumpelstiltskin-dance)
+- [Alors on danse duo dance](#alors-on-danse-duo-dance)
+- [Bad Times dance](#bad-times-dance)
+- [I found you in the crowd](#i-found-you-in-the-crowd)
 - [Contributing](#contributing)
 
 ## Zombie couple / zombie love story
@@ -50,6 +53,24 @@ The trend: the "AI Rumpelstiltskin" clip set to "tiptoeing in my jordans", where
 - [tiptoeing-in-my-jordans.com](https://tiptoeing-in-my-jordans.com/) - 10-second tiptoe dance video from one photo of a person or a pet, in 480p or 720p and 9:16, 16:9 or 1:1; you sign in when you pay. *(maintainer's site)*
 - [tiptoeinginmyjordans.net](https://tiptoeinginmyjordans.net/) - 12-second videos up to 1080p, with no watermark.
 - [tiptoeinginmyjordansai.com](https://tiptoeinginmyjordansai.com/) - 12-second silent 16:9 videos in 480p or 720p, with a free 2-second 480p preview for new accounts.
+
+## Alors on danse duo dance
+
+The trend: two people in a studio, one playing a keyboard while the other dances beside them.
+
+- [alorsondansevideo.com](https://alorsondansevideo.com/) - 13-second 480p duo dance video from two portrait photos, in 16:9 or 9:16; no free option; independent site, not affiliated with Stromae or TikTok, and the original song is not included.
+
+## Bad Times dance
+
+The trend: a short dance clip of a person, a group or a pet, made from a single photo.
+
+- [badtimesai.dev](https://badtimesai.dev/) - 14- to 15-second 480p vertical AI dance effect video from one portrait, group or pet photo, with five templates and no account needed; no free option; independent, unofficial site.
+
+## I found you in the crowd
+
+The trend: one person watches from a nightclub balcony, a spotlight finds the other in the crowd, and their eyes meet.
+
+- [ifoundyouinthecrowdai.com](https://ifoundyouinthecrowdai.com/) - 10- to 15-second 480p vertical AI encounter effect video from two portrait photos, in three styles, with no account needed; no free option; independent, unofficial site.
 
 ## Contributing
 
