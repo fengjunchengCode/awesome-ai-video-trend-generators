@@ -15,6 +15,9 @@ This list is maintained by the operator of two of the tools listed here: **zombi
 - [Alors on danse duo dance](#alors-on-danse-duo-dance)
 - [Bad Times dance](#bad-times-dance)
 - [I found you in the crowd](#i-found-you-in-the-crowd)
+- [KDA Firestarter solo dance](#kda-firestarter-solo-dance)
+- [A2O Lite neon duo dance](#a2o-lite-neon-duo-dance)
+- [dime dime baby party dance](#dime-dime-baby-party-dance)
 - [Contributing](#contributing)
 
 ## Zombie couple / zombie love story
@@ -71,6 +74,18 @@ The trend: a short dance clip of a person, a group or a pet, made from a single 
 The trend: one person watches from a nightclub balcony, a spotlight finds the other in the crowd, and their eyes meet.
 
 - [ifoundyouinthecrowdai.com](https://ifoundyouinthecrowdai.com/) - 10- to 15-second 480p vertical AI encounter effect video from two portrait photos, in three styles, with no account needed; no free option; independent, unofficial site.
+
+## KDA Firestarter solo dance
+
+- [kdafirestarterai.dev](https://kdafirestarterai.dev/) - 13-second 480p 21:9 solo dance video from one portrait; no free option; independent unofficial site, not affiliated with Riot Games or K/DA.
+
+## A2O Lite neon duo dance
+
+- [a2oliteai.org](https://a2oliteai.org/) - 15-second 480p 16:9 neon duo dance video from two portraits, with reference soundtrack and no watermark; no free option; independent unofficial site.
+
+## dime dime baby party dance
+
+- [dimedimebabyai.dev](https://dimedimebabyai.dev/) - About 5-second 480p 9:16 AI dance video from one photo (Quince Classic solo or Party Groove solo/group), with generated music; no free option; independent site.
 
 ## Contributing
 
